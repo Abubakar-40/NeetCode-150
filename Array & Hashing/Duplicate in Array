@@ -1,4 +1,6 @@
-# Space and time complexities: O(n)
+//https://neetcode.io/problems/duplicate-integer?list=neetcode150
+
+//Space and time complexities: O(n)
 
 class Solution {
 public:
