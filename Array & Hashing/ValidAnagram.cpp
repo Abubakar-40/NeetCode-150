@@ -1,7 +1,7 @@
-#https://neetcode.io/problems/is-anagram?list=neetcode150
+// https://neetcode.io/problems/is-anagram?list=neetcode150
 
-# Space Complexity : O(1)
-# Time Complexity : O(n)
+// Space Complexity : O(1)
+// Time Complexity : O(n)
 
 class Solution {
 public:
